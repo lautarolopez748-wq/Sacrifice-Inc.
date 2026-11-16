@@ -24,7 +24,7 @@ Este archivo define cómo trabajan los agentes (OpenCode) en este repositorio. C
 | Alcance MVP amputación | Brazos + piernas. Cabeza = muerte especial (cinemática/fail), no puzle |
 | Idioma textos del juego | Español |
 | Ritmo | 20+ h/semana |
-| Git | Remoto privado `origin` = `lautarolopez748-wq/Sacrifice-Inc` (sin punto final) |
+| Git | Remoto privado `origin` = `lautarolopez748-wq/Sacrifice-Inc.` (el repo se llama así, **con punto final**) |
 | Docs | GDD manda; TECHNICAL_ARCHITECTURE deriva de aquí |
 
 ## Reglas obligatorias

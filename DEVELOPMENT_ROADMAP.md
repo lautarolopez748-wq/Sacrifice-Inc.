@@ -14,7 +14,7 @@
 - [x] Blender **4.5.10 LTS** en `E:\Tools\Blender`
 - [x] Proyecto Unity creado en `E:\Sacrifice Inc` (proyecto aplanado desde anidado) + **URP 17.3.0** verificado en `Packages/manifest.json`, proyecto compila en modo batch (exit 0)
 - [x] Git LFS instalado (`git lfs install`) + primer commit M0
-- [ ] Push del hito M0 (solo con autorización del owner)
+- [x] Push del hito M0 autorizado y completado (`f2cf700`, 2026-11-16); historial: stub remoto `81a23e5` fusionado conservando el README del proyecto
 
 > Nota: el componente *Windows Build Support (IL2CPP)* quedó instalado vía Hub; el componente *Microsoft Visual Studio Community 2026* falló a propósito y se ignoró (no es necesario; Mono basta para builds de prototipo).
 
